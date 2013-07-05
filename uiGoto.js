@@ -1,4 +1,4 @@
-angular.module('mgo.ui.router.directives', []);
+angular.module('mgo.ui.router.directives', ['ui.router']);
 
 angular.module('mgo.ui.router.directives').directive('uiGoto', function() {
     return {
