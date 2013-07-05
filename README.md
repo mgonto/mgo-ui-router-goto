@@ -15,6 +15,14 @@ You can download this by:
 
 Using this directive is pretty easy. Is just depends on AngularJS and ui-router of course.
 
+First step is to include this module to your app:
+
+````javascript
+angular.module('myApp', ['ui.router', 'mgo.ui.router.directives'];
+````
+
+Now you can use it, let's see some examples!
+
 ### Basic example
 It can be used in anything you wat the user to be able to click and go to another state. Let's see a basic example
 
