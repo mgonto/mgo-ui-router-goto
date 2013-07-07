@@ -1,6 +1,6 @@
 # ui-router Goto for AngularJS
 
-**`ui-goto` is a directive for ui-router that lets you link to states instead of URLs.** In your WebApp, it's important to think in all the different states that the app can have first. Each state may or may not have an URL. This is the idea of ui-router. In the future version, I'll be adding the `href` property as well for bookmarkeability and ability to open any link on a new tab. 
+`ui-goto` **is a directive for ui-router that lets you link and think in states for the flow of the WebApp instead of URLs**. In your WebApp, it's important to think in all the different states that the app can have first. Each state may or may not have an URL. This is the idea of ui-router. In the future version, I'll be adding the `href` property as well for bookmarkeability and ability to open any link on a new tab. 
 
 **It also handles the Parameter inheritance.**
 
