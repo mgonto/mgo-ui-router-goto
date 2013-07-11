@@ -8,7 +8,7 @@ angular.module('mgo.ui.router.directives').directive('uiGoto', function() {
             
             
             
-            $element.click(function(e) {
+            $element.bind('click', function(e) {
                 e.preventDefault();
                 var state = $attrs.uiGoto;
                 
