@@ -1,6 +1,6 @@
 {
   "name": "mgo-ui-router-goto",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "./uiGoto.js",
   "description": "A directive for ui-router that lets you link to states instead of URLs",
   "repository": {
